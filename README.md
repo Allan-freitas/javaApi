@@ -1,6 +1,6 @@
 # Spring Boot - OAuth2 with JWT
 
-##Authorization Server
+## Authorization Server
 Authorization Server is a supreme architectural component for Web API Security. 
 The Authorization Server acts a centralization authorization point that allows 
 your apps and HTTP endpoints to identify the features of your application.
